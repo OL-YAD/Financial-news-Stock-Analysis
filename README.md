@@ -19,7 +19,7 @@ This project is focused on analyzing a large corpus of financial news data to di
 │       └── unittests.yml      # GitHub Actions
 ├── .gitignore                 # directories to be ignored by git
 ├── requirements.txt           # contains dependencies for the project
-├── README.md                  # Project documentation (this file)
+├── README.md                  
 ├── src/
 │   ├── __init__.py
 │   
