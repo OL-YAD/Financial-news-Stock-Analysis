@@ -8,12 +8,8 @@ This project is focused on analyzing a large corpus of financial news data to di
 2. Establish statistical correlations between news sentiment and stock price movements.
 3. Provide actionable insights and investment strategies based on your analysis.
 
-## Folder Structure
-- `notebooks/`: Jupyter notebooks for EDA.
-       -  `Sentiment_Analysis_EDA.ipynb` : EDA analysis for Financial News Analysis 
-- `scripts/`: Python scripts for EDA processing.
 
-## Directory Structure
+## Folder Structure
 
 ```plaintext
 ├── .vscode/
