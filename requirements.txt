@@ -70,7 +70,6 @@ six==1.16.0
 smmap==5.0.1
 stack-data==0.6.3
 streamlit==1.38.0
-TA-Lib @ file:///D:/TA_Lib-0.4.29-cp312-cp312-win_amd64.whl#sha256=234d0aa150039b2263de0cc2828882db52e759bd9d785f46be52ddc9e9299a39
 tenacity==8.5.0
 textblob==0.18.0.post0
 threadpoolctl==3.5.0
