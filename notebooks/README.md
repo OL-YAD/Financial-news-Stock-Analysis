@@ -13,14 +13,16 @@ This project is focused on analyzing a large corpus of financial news data to di
 - `scripts/`: Python scripts for EDA processing.
 
 ## notebooks Folder/ 
-    `AAPL_EDA.ipynb` : contains a scripts for processing Apple financial stock data 
-    `AMZN_EDA.ipynb` : contains a scripts for processing Amazon financial stock data
-    `GOOG_EDA.ipynb` : contains a scripts for processing Google financial news data
-    `META_EDA.ipynb` : contains a scripts for processing Meta financial news data
-    `MSFT_EDA.ipynb` : contains a scripts for processing Microsoft financial news data
-    `NVDA_EDA.ipynb` : contains a scripts for processing Nvidia financial news data
-    `TSLA_EDA.ipynb` : contains a scripts for processing Tesla financial news data
-    `Sentiment_Analysis_EDA.ipynb` : contains a scripts for processing financial news data
+    `AAPL_EDA.ipynb` : contains EDA analysis of Apple financial stock data 
+    `AMZN_EDA.ipynb` : contains EDA analysis of Amazon financial stock data 
+    `GOOG_EDA.ipynb` : contains EDA analysis of Google financial stock data 
+    `META_EDA.ipynb` : contains EDA analysis of Meta financial stock data 
+    `MSFT_EDA.ipynb` : contains EDA analysis of Microsoft financial stock data 
+    `NVDA_EDA.ipynb` : contains EDA analysis of Nvidia financial stock data 
+    `TSLA_EDA.ipynb` : contains EDA analysis of Tesla financial stock data 
+    `Sentiment_Analysis_EDA.ipynb` : contains Sentiment analysis of financial news data
+    `correlation_analysis_notebook.ipynb` : a notebook for Financial News and Stock Price Integration analysis
+
     
 ## Setup Instructions
 1. Clone the repository.
