@@ -28,20 +28,21 @@ This project is focused on analyzing a large corpus of financial news data to di
 ├── notebooks/
 │   ├── __init__.py
 │   ├── Sentiment_Analysis_EDA.ipynb  # Jupyter notebook for stock news EDA analysis
-│   └── AAPL_EDA.ipynb,AMZN_EDA.ipynb,GOOG_EDA.ipynb,META_EDA.ipynb,MSFT_EDA.ipynb,NVDA_EDA.ipynb, TSLA_EDA ipynb          #  notebook files for financial analysis of each stock data 
+│   └── AAPL_EDA.ipynb,AMZN_EDA.ipynb,GOOG_EDA.ipynb,META_EDA.ipynb,MSFT_EDA.ipynb,NVDA_EDA.ipynb, TSLA_EDA ipynb,  correlation_analysis_notebook.ipynb        #  notebook files for financial analysis of each stock data 
 ├── tests/
 └── scripts/
     ├── __init__.py
     ├── utils.py # Script for financial news analysis 
     ├── financial_analyzer.py # script for the stock data analysis    
+    ├── sentiment_correlation_analysis.py # script for financial news and stock price integration analysis
     └── README.md             # Documentation for the scripts directory
 ```
 ## Setup
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/stock-sentiment-analysis.git
-   cd stock-sentiment-analysis
+   git clone https://github.com/OL-YAD/Financial-news-Stock-Analysis.git
+   cd Financial-news-Stock-Analysis
    ```
 
 2. Create a virtual environment (optional but recommended):
