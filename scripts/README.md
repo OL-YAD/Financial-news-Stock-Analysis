@@ -13,8 +13,10 @@ This project is focused on analyzing a large corpus of financial news data to di
 - `scripts/`: Python scripts for EDA processing.
 
 ## Sripts Folder 
-    `__init__.py` : contains a scripts for processing financial news data 
-`financial_analyzer.py` : contains a scripts for processing financial stock data 
+    `utils.py` : contains a scripts for processing financial news data 
+    `financial_analyzer.py` : contains a scripts for processing financial news data
+    `sentiment_correlation_analysis.py` : contains a scripts Financial News and Stock Price sentiment-correlation analysis.
+    
 ## Setup Instructions
 1. Clone the repository.
 2. Set up the virtual environment.
