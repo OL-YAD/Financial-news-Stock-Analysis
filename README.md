@@ -13,7 +13,9 @@ This project is focused on analyzing a large corpus of financial news data to di
 
 ```plaintext
 ├── .vscode/
-│   └── settings.json          
+│   └── settings.json  
+├── app/
+│   └── app.py     # streamlit app         
 ├── .github/
 │   └── workflows/
 │       └── unittests.yml      # GitHub Actions
@@ -34,7 +36,42 @@ This project is focused on analyzing a large corpus of financial news data to di
     ├── financial_analyzer.py # script for the stock data analysis    
     └── README.md             # Documentation for the scripts directory
 ```
-## Setup Instructions
-1. Clone the repository.
-2. Set up the virtual environment.
-3. Install dependencies using `pip install -r requirements.txt`
+## Setup
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/stock-sentiment-analysis.git
+   cd stock-sentiment-analysis
+   ```
+
+2. Create a virtual environment (optional but recommended):
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
+
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
+
+## Running the Streamlit App
+
+To run the Streamlit app locally:
+
+1. Ensure you're in the project directory and your virtual environment is activated (if you're using one).
+
+2. Run the following command:
+   ```
+   streamlit run app.py
+   ```
+
+## Data Sources
+
+- Historical stock data: Retrieved from Yahoo Finance
+- News sentiment data: Collected from financial news sources 
+
+
+## Contact
+
+For any questions or feedback, please open an issue on this GitHub repository.
