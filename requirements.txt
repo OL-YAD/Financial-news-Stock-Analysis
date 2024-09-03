@@ -55,7 +55,6 @@ pynance==1.0.0
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
 pyzmq==26.2.0
 referencing==0.35.1
 regex==2024.7.24
